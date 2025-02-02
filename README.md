@@ -31,7 +31,7 @@ NODEJS_CRUD/
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/nodejs_crud.git
+   git clone https://github.com/supratims10/vanilla-nodejs-crud-api.git
    cd nodejs_crud
    ```
 2. Initialize the project:

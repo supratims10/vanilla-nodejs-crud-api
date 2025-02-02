@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cq-2-202-cd",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9
+  },
+  {
+    "id": "cq-3-303-ef",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.6
+  },
+  {
+    "id": "cq-4-404-gh",
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.6
+  },
+  {
+    "id": "cq-5-505-ij",
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 9.2
+  },
+  {
+    "id": "cq-6-606-kl",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "rating": 8.9
+  },
+  {
+    "id": "cq-7-707-mn",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.8
+  },
+  {
+    "id": "cq-8-808-op",
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7
+  },
+  {
+    "id": "cq-9-909-qr",
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action",
+    "rating": 8.5
+  },
+  {
+    "id": "cq-10-010-st",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3
+  },
+  {
+    "title": "The Dark Knight Returns",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9,
+    "id": "cq-795-947-3c"
+  },
+  {
+    "id": "cq-198-803-ce",
+    "title": "The Batman",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9
+  }
+]

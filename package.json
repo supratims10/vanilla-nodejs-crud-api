@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_crud",
+  "version": "1.0.0",
+  "description": "This is practice vanilla nodejs crud project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Supratim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
